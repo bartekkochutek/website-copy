@@ -3,5 +3,7 @@ Normally, though, they work through either a track's queue (e.g. all the Ruby su
 
 Queues are ordered algorithmically, but fundamentally acts like first-in-first-out queues with core exercises prioritised over side exercises, and those submitted in "Mentored Mode" prioritised over those in "Independent Mode".
 
+The position in queue is based on first submission (next submissions will not reset it to the end of queue).
+
 Because there is no strict linear queue, and because mentors' rates of mentoring and mentoring behaviour changes daily, we currently do not provide time estimates.
 However, as a yardstick, the quickest tracks provide mentoring within a few hours, and the slowest within a few days.
